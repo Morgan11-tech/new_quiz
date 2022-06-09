@@ -1,6 +1,7 @@
 # new_quiz
 
-A new Flutter project.
+This is a flutter implementation of a project of a terminal based quiz app written in python. 
+Credits to Clifford for the inspiration for the implementation of this app.
 
 ## Getting Started
 
