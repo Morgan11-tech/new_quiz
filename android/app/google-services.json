@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639441313607",
+    "project_id": "cmquiz-c860e",
+    "storage_bucket": "cmquiz-c860e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639441313607:android:41aef7fa97a465ff35f662",
+        "android_client_info": {
+          "package_name": "com.example.new_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639441313607-fjp9mctu69ggrpdcqv33mk57gmkk3q5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsF5iiOfcIZY0jGVEwVhjE5XX2ydo2T18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639441313607-fjp9mctu69ggrpdcqv33mk57gmkk3q5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
